@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35553
     wikipedia: http://en.wikipedia.org/wiki/Rodrigues_Ottolengui
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31915#An-Artist-in-Crime
 gutenberg_issued: '2010-04-07'
 gutenberg_type: Text
 identifiers:
